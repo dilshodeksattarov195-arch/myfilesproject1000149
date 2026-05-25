@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuarse",
+        "uuid": 808325,
+        "checksum": "lyqkuc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
